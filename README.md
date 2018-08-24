@@ -6,7 +6,7 @@ A curated list of tasteful PowerShell Scripts to help you cleanup the pre-instal
 
 **All scripts are provided as is and you use them at your own risk. I am not liable for any damages or problems that may result from using this script. Also there is no function to reverse changes.**
 
-## Table of Content
+## Table of Contents
 
 - [Purpose](#purpose)
 - [How to use](#how-to-use)
