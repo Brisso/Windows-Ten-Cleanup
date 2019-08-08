@@ -1,5 +1,5 @@
 # Windows 10 Cleanup
-A curated list of tasteful PowerShell Scripts to help you cleanup the pre-installed apps for Micrsoft Windows 10, to disable unnecessary settings and services. A list of all the changes will be detailed below. Thanks
+A curated list of tasteful PowerShell Scripts to help you cleanup the pre-installed apps for Micrsoft Windows 10, to disable unnecessary settings and services. A list of all the changes will be detailed below. Thanks 
 
 
 
